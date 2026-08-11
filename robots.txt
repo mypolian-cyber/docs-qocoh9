@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-48md98.keitaro-tech-rtb.online/sitemap.xml
